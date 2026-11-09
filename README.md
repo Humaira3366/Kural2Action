@@ -1,3 +1,14 @@
+## 🎬 Project Demo
+
+Watch the Kural2Action showcase:
+
+[▶️ Watch the Demo Video](https://github.com/Humaira3366/Kural2Action/releases/tag/v1.0-demo)
+
+**Voice narration:** Generated using Gnani AI Timbre v3.0.
+
+**Speech recognition:** Powered by Gnani AI Prisma.
+
+
 # Kural2Action 🏙️
 ### Turning citizen voices into actionable civic intelligence
 
